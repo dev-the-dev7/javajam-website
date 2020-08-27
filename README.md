@@ -1,2 +1,2 @@
 # javajam-website
-code to advertise javajam coffee house
+Website to advertise javajam coffee house.
